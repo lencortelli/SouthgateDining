@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SG Dining</string>
+    <string name="action_settings">Settings</string>
+    <string name="day">Day</string>
+    <string name="bf">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="entree1">Entree1</string>
+    <string name="entree2">Entree2</string>
+    <string name="side">Side</string>
+    <string name="VegEntree">Vegetarian Entree</string>
+    <string name="vegetable1">Vegetable1</string>
+    <string name="vegetable2">Vegetable2</string>
+    <string name="bread">Bread</string>
+    
+    <string name="previous">Previous Day</string>
+    <string name="next">Next Day</string>
+    <string name="loading">Loading Menu Data...</string>
+    <string name="logo">SouthGate Campus Centre</string>
+</resources>
